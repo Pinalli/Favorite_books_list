@@ -1,16 +1,16 @@
-
 import './App.css';
-import logo from './img/logo.jpg';
+import Logo from './components/Logo';
+import HeaderOptions from './components/HeaderOptions';
+import HeaderIcons from './components/HeaderIcons';
 
 function App() {
   return (
     <div className='App'>
-      <header className='App-header' >
-        <div className='logo'>
-          <img src={logo} className='App-logo' alt='logo' />
-          <p><strong>Favorite Books</strong></p>
-        </div>
-        
+      <header className='App-header' >      
+        <Logo/> 
+        <HeaderOptions/>
+        <HeaderIcons/>
+       
       </header>
     </div>
   );

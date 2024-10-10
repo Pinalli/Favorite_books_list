@@ -1,0 +1,10 @@
+
+  .logo{
+    display:flex;
+    font-size:30px;
+  
+    margin-left: 10px; 
+    margin-bottom:10px;
+    margin-top: 10px;
+    margin-rigth: 15px;
+  }
