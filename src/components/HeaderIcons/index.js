@@ -1,4 +1,4 @@
-
+import './style.css';
 import profile from '../../img/profile.svg';
 import bag  from '../../img/bag.svg';
 

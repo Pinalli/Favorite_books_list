@@ -1,4 +1,4 @@
-
+import './style.css';
 
 const optionsText = ['CATEGORY', 'MY BOOKSHELF', 'FAVORITES']; 
 
