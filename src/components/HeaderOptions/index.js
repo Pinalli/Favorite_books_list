@@ -16,7 +16,6 @@ padding: 0 5px;
 cursor: pointer;
 min-width: 120px;`
 
-
 function HeaderOptions() {
     return (
       <Options>
